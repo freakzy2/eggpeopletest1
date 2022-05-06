@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0xf726d8e94db830a42879e4f5f75683042c08c70f8ae45587d8f98d0b72cf48dc",
   "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0xf726d8e94db830a42879e4f5f75683042c08c70f8ae45587d8f98d0b72cf48dc",
   "NETWORK": {
-    "NAME": "Matic Mumbai",
+    "NAME": "Matic",
     "SYMBOL": "Matic",
     "ID": 80001
   },
